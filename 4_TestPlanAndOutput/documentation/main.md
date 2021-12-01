@@ -1,1 +1,0 @@
-@mainpage SeatHeatingApp by anoop @subpage project_main.c
