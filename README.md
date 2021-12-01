@@ -7,5 +7,10 @@
 * As potentiometer is varied, message containing detected temperature is shown in serial monitor.
 
 
+|Codacy|
+|:--:|
+[![Codacy Badge](https://app.codacy.com/project/badge/Grade/35212a8380324b3ca2f6ef6d7048ef31)](https://www.codacy.com/gh/Vishnu-prasath/M2_Embedded_Seat_Heater/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=Vishnu-prasath/M2_Embedded_Seat_Heater&amp;utm_campaign=Badge_Grade)
+
+
 
 
