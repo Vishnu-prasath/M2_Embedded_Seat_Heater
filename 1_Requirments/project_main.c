@@ -1,10 +1,8 @@
 /**
  * @file project_main.c
- * 
  * @brief app to control temperature in a car
  * @version 0.1
- * @date 2021-04-23
- * 
+ * @date 2021-12-02 
  * @copyright Copyright (c) 2021
  * 
  */
