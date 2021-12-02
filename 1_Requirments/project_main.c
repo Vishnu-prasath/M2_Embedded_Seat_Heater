@@ -1,6 +1,6 @@
 /**
  * @file project_main.c
- * @author anoop
+ * 
  * @brief app to control temperature in a car
  * @version 0.1
  * @date 2021-04-23
